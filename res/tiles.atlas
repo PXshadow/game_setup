@@ -1,0 +1,251 @@
+
+tiles.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backLeaves0
+  rotate: false
+  xy: 412, 9
+  size: 30, 29
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+backLeavesDead0
+  rotate: false
+  xy: 444, 9
+  size: 30, 29
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+bar
+  rotate: false
+  xy: 507, 204
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+barBg
+  rotate: false
+  xy: 259, 1
+  size: 118, 6
+  orig: 118, 6
+  offset: 0, 0
+  index: -1
+barBgOff
+  rotate: false
+  xy: 379, 1
+  size: 118, 6
+  orig: 118, 6
+  offset: 0, 0
+  index: -1
+barThreshold
+  rotate: false
+  xy: 507, 196
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+bonus0
+  rotate: false
+  xy: 494, 175
+  size: 15, 14
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+branch0
+  rotate: false
+  xy: 412, 40
+  size: 24, 14
+  orig: 32, 16
+  offset: 5, 1
+  index: -1
+branch1
+  rotate: false
+  xy: 438, 40
+  size: 24, 10
+  orig: 32, 16
+  offset: 5, 5
+  index: -1
+branchCore0
+  rotate: false
+  xy: 494, 220
+  size: 10, 9
+  orig: 16, 16
+  offset: 3, 4
+  index: -1
+ceil0
+  rotate: false
+  xy: 494, 19
+  size: 16, 19
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+ceil1
+  rotate: false
+  xy: 494, 40
+  size: 16, 19
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dirt0
+  rotate: false
+  xy: 494, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirtyBranch0
+  rotate: false
+  xy: 380, 42
+  size: 24, 14
+  orig: 32, 16
+  offset: 5, 1
+  index: -1
+dirtyBranch1
+  rotate: false
+  xy: 438, 52
+  size: 24, 10
+  orig: 32, 16
+  offset: 5, 5
+  index: -1
+dot
+  rotate: false
+  xy: 494, 9
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 494, 14
+  size: 3, 3
+  orig: 1, 1
+  offset: 0, -2
+  index: -1
+fruit0
+  rotate: false
+  xy: 499, 1
+  size: 11, 15
+  orig: 16, 16
+  offset: 2, 0
+  index: -1
+fruitRaw0
+  rotate: false
+  xy: 494, 207
+  size: 11, 11
+  orig: 16, 16
+  offset: 3, 0
+  index: -1
+leaves0
+  rotate: false
+  xy: 316, 9
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+leavesBlossom0
+  rotate: false
+  xy: 380, 9
+  size: 30, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+leavesDead0
+  rotate: false
+  xy: 348, 9
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+radius
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skyGradient
+  rotate: false
+  xy: 476, 9
+  size: 16, 256
+  orig: 16, 256
+  offset: 0, 0
+  index: -1
+skyStar0
+  rotate: false
+  xy: 494, 191
+  size: 11, 14
+  orig: 16, 16
+  offset: 3, 0
+  index: -1
+skyStar1
+  rotate: false
+  xy: 507, 191
+  size: 3, 3
+  orig: 16, 16
+  offset: 3, 5
+  index: -1
+skyStar2
+  rotate: false
+  xy: 503, 231
+  size: 6, 13
+  orig: 16, 16
+  offset: 0, 2
+  index: -1
+skyStar3
+  rotate: false
+  xy: 506, 220
+  size: 5, 5
+  orig: 16, 16
+  offset: 7, 2
+  index: -1
+smallLeaves0
+  rotate: false
+  xy: 494, 121
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+smallLeavesDead0
+  rotate: false
+  xy: 494, 139
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+smoke0
+  rotate: false
+  xy: 259, 9
+  size: 55, 57
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+star
+  rotate: false
+  xy: 494, 231
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+stripes0
+  rotate: false
+  xy: 494, 157
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+surface0
+  rotate: false
+  xy: 494, 61
+  size: 16, 19
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+surface1
+  rotate: false
+  xy: 494, 82
+  size: 16, 19
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
